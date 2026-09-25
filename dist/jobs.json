@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-25T12:42:51.342182+00:00",
+  "checkedAt": "2026-09-25T12:47:11.613557+00:00",
   "jobs": [
     {
       "id": "https://redeverbita.gupy.io/jobs/11428209",
@@ -13,12 +13,69 @@
       "talentPool": false,
       "sourceUrl": "https://redeverbita.gupy.io/jobs/11428209",
       "applyUrl": "https://redeverbita.gupy.io/jobs/11428209",
-      "checkedAt": "2026-09-25T12:42:51.342182+00:00",
+      "checkedAt": "2026-09-25T12:47:11.613557+00:00",
       "publishedAt": "2026-06-03",
       "deadline": "2026-10-30",
       "status": "active",
       "statusLabel": "Inscrições disponíveis",
       "warning": "O título indica estágio, mas o texto menciona contratação CLT. Confirme o vínculo com a empresa."
+    },
+    {
+      "id": "https://atracaodetalentos.totvs.app/guiando/21/banco-de-talentos-estagio-em-banco-de-dados",
+      "title": "[Banco de Talentos] Estágio em Banco de Dados",
+      "company": "Guiando",
+      "city": "Juiz de Fora · MG",
+      "mode": null,
+      "salary": null,
+      "summary": "Aqui na Guiando, acreditamos que o poder dos dados vai muito além dos números — ele está nas conexões que eles criam e nas decisões que eles ajudam a tomar. Se você gosta de trabalhar com dados, tem curiosidade por entender o “porquê” por trás das informações e quer desenvolver suas…",
+      "description": "Aqui na Guiando, acreditamos que o poder dos dados vai muito além dos números — ele está nas conexões que eles criam e nas decisões que eles ajudam a tomar. Se você gosta de trabalhar com dados, tem curiosidade por entender o “porquê” por trás das informações e quer desenvolver suas habilidades em SQL e BI, queremos te conhecer!\nEstamos formando nosso Banco de Talentos de Estágio em Banco de Dados, voltado a pessoas que querem aprender, se desenvolver e crescer junto com o time de tecnologia. 🚀\n\nCriar e otimizar queries SQL para extração, análise e transformação de dados. Apoiar na manutenção e melhoria do banco de dados, garantindo performance e integridade. Atender solicitações de análise de dados de diferentes áreas da empresa. Auxiliar na automação de processos e geração de relatórios. Investigar inconsistências e apoiar na solução de problemas relacionados a dados.\n\nEstar cursando graduação em Ciência da Computação, Engenharia da Computação, Sistemas de Informação, Estatística, Matemática ou áreas correlatas. Conhecimento básico de SQL e bancos de dados relacionais. Capacidade analítica e habilidade para entender regras de negócio complexas. Interesse em trabalhar com análise e manipulação de dados. Boa comunicação para entender e traduzir demandas de diferentes áreas. Proatividade e vontade de aprender.\n\nDiferenciais: Experiência com BI, Python e modelagem de dados.\n\nReferência em Gestão de Custos de Telecom, sempre focados em simplificar e automatizar a gestão de telecomunicações com inovação e excelência.",
+      "talentPool": true,
+      "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/21/banco-de-talentos-estagio-em-banco-de-dados",
+      "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/c78af017-834b-49e5-b1ee-bc71d2ca9ceb?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
+      "checkedAt": "2026-09-25T12:47:11.613557+00:00",
+      "publishedAt": "2025-10-21",
+      "deadline": "2026-01-31",
+      "status": "expired",
+      "statusLabel": "Prazo informado encerrado",
+      "warning": ""
+    },
+    {
+      "id": "https://atracaodetalentos.totvs.app/guiando/22/banco-de-talentos-estagio-em-desenvolvimento",
+      "title": "[Banco de Talentos] Estágio em Desenvolvimento",
+      "company": "Guiando",
+      "city": "Juiz de Fora · MG",
+      "mode": null,
+      "salary": null,
+      "summary": "Aqui na Guiando, acreditamos que pessoas com vontade de aprender e crescer fazem toda a diferença. 💙 Se você está começando sua jornada em tecnologia e quer aprender com um time colaborativo, inovador e que valoriza o desenvolvimento constante, queremos te conhecer!\nEstamos construindo…",
+      "description": "Aqui na Guiando, acreditamos que pessoas com vontade de aprender e crescer fazem toda a diferença. 💙 Se você está começando sua jornada em tecnologia e quer aprender com um time colaborativo, inovador e que valoriza o desenvolvimento constante, queremos te conhecer!\nEstamos construindo nosso Banco de Talentos de Estágio em Desenvolvimento C# — um espaço para quem deseja fazer parte do nosso time de tecnologia no futuro. 🚀\n\nApoiar o time no desenvolvimento, testes e manutenção de aplicações em C#; Ajudar na identificação e correção de bugs; Participar da implementação de novas funcionalidades e integrações; Colaborar na documentação técnica dos projetos; Contribuir com ideias e melhorias nos processos de desenvolvimento.\n\nEstar cursando Engenharia de Software, Ciência da Computação, Sistemas de Informação ou áreas relacionadas; Ter conhecimentos básicos em alguma linguagem de programação (como JavaScript, Python, Java, etc.); Ser curioso(a), proativo(a) e gostar de resolver problemas; Ter vontade de aprender e crescer junto com o time.\n\nExperiência (mesmo que acadêmica) com .NET ou ASP.NET; Noções de banco de dados SQL Server; Familiaridade com Git e controle de versão; Interesse por metodologias ágeis e cultura de melhoria contínua.\n\nReferência em Gestão de Custos de Telecom, sempre focados em simplificar e automatizar a gestão de telecomunicações com inovação e excelência.",
+      "talentPool": true,
+      "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/22/banco-de-talentos-estagio-em-desenvolvimento",
+      "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/cbcdebb5-ce04-449d-98e4-674fecb36b74?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
+      "checkedAt": "2026-09-25T12:47:11.613557+00:00",
+      "publishedAt": "2025-10-21",
+      "deadline": "2025-12-31",
+      "status": "expired",
+      "statusLabel": "Prazo informado encerrado",
+      "warning": ""
+    },
+    {
+      "id": "https://atracaodetalentos.totvs.app/guiando/23/banco-de-talentos-estagio-em-infraestrutura",
+      "title": "[Banco de Talentos] Estágio em Infraestrutura",
+      "company": "Guiando",
+      "city": "Juiz de Fora · MG",
+      "mode": null,
+      "salary": null,
+      "summary": "Aqui na Guiando, acreditamos que pessoas curiosas e dispostas a aprender fazem toda a diferença. Se você é do tipo que gosta de entender como tudo funciona “por trás das telas” e quer aprender mais sobre redes, sistemas e segurança, esse é o seu lugar!\nEstamos formando nosso Banco de…",
+      "description": "Aqui na Guiando, acreditamos que pessoas curiosas e dispostas a aprender fazem toda a diferença. Se você é do tipo que gosta de entender como tudo funciona “por trás das telas” e quer aprender mais sobre redes, sistemas e segurança, esse é o seu lugar!\nEstamos formando nosso Banco de Talentos de Estágio em Infraestrutura de TI, voltado a estudantes que desejam crescer e se desenvolver em um ambiente colaborativo, inovador e cheio de oportunidades de aprendizado. 🚀\n\nApoiar o time na manutenção e monitoramento de servidores, redes e sistemas; Ajudar na instalação, configuração e atualização de softwares e equipamentos; Contribuir com atividades de segurança da informação e controle de acessos; Auxiliar no suporte técnico aos usuários internos; Participar de melhorias e documentações dos processos da área.\n\nEstudantes de Tecnologia da Informação, Redes de Computadores, Ciência da Computação ou áreas relacionadas; Conhecimento básico em sistemas operacionais (Windows e/ou Linux); Interesse em infraestrutura, redes e segurança da informação; Vontade de aprender, colaborar e crescer junto com o time.\n\nExperiência prévia (acadêmica ou pessoal) com suporte técnico.\n\nReferência em Gestão de Custos de Telecom, sempre focados em simplificar e automatizar a gestão de telecomunicações com inovação e excelência.",
+      "talentPool": true,
+      "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/23/banco-de-talentos-estagio-em-infraestrutura",
+      "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/7ae3b5de-4197-45ba-8dfd-0fc2beb610e8?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
+      "checkedAt": "2026-09-25T12:47:11.613557+00:00",
+      "publishedAt": "2025-10-21",
+      "deadline": "2026-01-31",
+      "status": "expired",
+      "statusLabel": "Prazo informado encerrado",
+      "warning": ""
     }
   ],
   "sources": [
@@ -49,8 +106,8 @@
     {
       "name": "Jobsora (descoberta)",
       "url": "https://br.jobsora.com/empregos?query=estagio+ti&location=Juiz+de+Fora%2C+MG",
-      "status": "error",
-      "message": "Consulta não permitida por robots.txt"
+      "status": "ok",
+      "candidates": 0
     },
     {
       "name": "AllLocalJobs (descoberta)",
@@ -61,8 +118,8 @@
     {
       "name": "Vaganet (referência)",
       "url": "https://vaganet.com.br/vaga/c78af017-834b-49e5-b1ee-bc71d2ca9ceb-estagio-em-banco-de-dados-2/",
-      "status": "ok",
-      "candidates": 0
+      "status": "error",
+      "message": "robots.txt indisponível; consulta adiada"
     },
     {
       "name": "Busca web: estágio TI tecnologia Juiz de Fora site:gupy.io/jobs",
@@ -79,32 +136,27 @@
     {
       "name": "Anúncio: https://atracaodetalentos.totvs.app/guiando/21/banco-de-talentos-estagio-em-banco-de-dados",
       "url": "https://atracaodetalentos.totvs.app/guiando/21/banco-de-talentos-estagio-em-banco-de-dados",
-      "status": "error",
-      "message": "Página sem dados estruturados de vaga; revisão necessária"
+      "status": "ok"
     },
     {
       "name": "Anúncio: https://atracaodetalentos.totvs.app/guiando/22/banco-de-talentos-estagio-em-desenvolvimento",
       "url": "https://atracaodetalentos.totvs.app/guiando/22/banco-de-talentos-estagio-em-desenvolvimento",
-      "status": "error",
-      "message": "Página sem dados estruturados de vaga; revisão necessária"
+      "status": "ok"
     },
     {
       "name": "Anúncio: https://atracaodetalentos.totvs.app/guiando/23/banco-de-talentos-estagio-em-infraestrutura",
       "url": "https://atracaodetalentos.totvs.app/guiando/23/banco-de-talentos-estagio-em-infraestrutura",
-      "status": "error",
-      "message": "Página sem dados estruturados de vaga; revisão necessária"
+      "status": "ok"
     },
     {
       "name": "Anúncio: https://atracaodetalentos.totvs.app/guiando/24/banco-de-talentos-estagio-em-backoffice",
       "url": "https://atracaodetalentos.totvs.app/guiando/24/banco-de-talentos-estagio-em-backoffice",
-      "status": "error",
-      "message": "Página sem dados estruturados de vaga; revisão necessária"
+      "status": "ok"
     },
     {
       "name": "Anúncio: https://atracaodetalentos.totvs.app/guiando/25/banco-de-talentos-estagio-em-onboarding",
       "url": "https://atracaodetalentos.totvs.app/guiando/25/banco-de-talentos-estagio-em-onboarding",
-      "status": "error",
-      "message": "Página sem dados estruturados de vaga; revisão necessária"
+      "status": "ok"
     },
     {
       "name": "Anúncio: https://redeverbita.gupy.io/jobs/11428209",
