@@ -85,6 +85,11 @@ async function main() {
   } catch {
     document.querySelector('#jobs').replaceChildren(el('p', 'Não foi possível carregar as vagas. Atualize a página para tentar novamente.', 'empty'));
     document.querySelector('#updated').textContent = 'Verificação indisponível';
+  } finally {
+    // The job cards change the height above sections linked from outside the site.
+    if (['#curriculos', '#como-funciona'].includes(location.hash)) {
+      document.querySelector(location.hash)?.scrollIntoView({ behavior: 'instant' });
+    }
   }
 }
 main();

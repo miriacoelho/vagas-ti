@@ -1,0 +1,47 @@
+Seu nome completo
+
+[Cidade e UF] | [Telefone com DDD] | [E-mail profissional]
+
+[LinkedIn, se tiver] | [GitHub ou portfólio, se tiver]
+
+Objetivo
+
+Estágio em [desenvolvimento, dados, suporte ou outra área da vaga].
+
+Resumo
+
+Estudante de [curso], com prática em [tecnologias] em projetos [acadêmicos ou pessoais]. Interesse em [área relacionada à vaga].
+
+Projetos selecionados
+
+[Nome do projeto 1] | [período] | [link do repositório ou demonstração]
+
+[Problema que o projeto resolve e sua contribuição individual.]
+
+[Tecnologias usadas, testes realizados e resultado verificável.]
+
+[Nome do projeto 2] | [período] | [link do repositório ou demonstração]
+
+[O que você implementou e como organizou ou validou a solução.]
+
+Experiência e atividades
+
+[Função em emprego, monitoria, voluntariado ou extensão] — [Organização]
+
+[Mês/ano de início] a [mês/ano de fim ou atual]
+
+[Entrega, atendimento ou colaboração relevante para a oportunidade.]
+
+Formação acadêmica
+
+[Curso] — [Instituição] | [período atual] | Conclusão prevista: [mês/ano]
+
+Conhecimentos e cursos
+
+[Linguagens, ferramentas e práticas utilizadas nos projetos]
+
+[Curso relevante] — [Instituição] | [ano]
+
+Idiomas e disponibilidade
+
+[Idioma e nível] | [Dias e horários disponíveis] | [Modelo de trabalho]

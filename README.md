@@ -21,6 +21,10 @@ O GitHub Actions executa `.github/workflows/update.yml` diariamente às **11h17 
 - O coletor respeita robots.txt, limita a frequência por domínio, aplica timeout e limita cada execução a 100 anúncios. Fontes que dependem de JavaScript ou bloqueiam robôs podem ficar indisponíveis. Cobertura e erros aparecem na página.
 - Bolsa e modalidade não informadas são apresentadas como tal. Não inferimos valores ou regime.
 
+## Currículos para estudantes
+
+A seção `#curriculos` oferece dois modelos originais gratuitos em DOCX editável e TXT: primeiro estágio e projetos em destaque. Os arquivos ficam em `dist/downloads/`, não exigem cadastro e são publicados junto com o site. Os campos entre colchetes devem ser substituídos por informações verdadeiras; seções sem aplicação devem ser removidas. A página traz orientações de preenchimento, revisão e envio, com leitura complementar do MIT. Os modelos não incluem dados reais de alunos e não prometem aprovação em processos seletivos.
+
 ## Rodar localmente
 
 ```sh

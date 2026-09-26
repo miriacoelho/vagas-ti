@@ -1,0 +1,45 @@
+Seu nome completo
+
+[Cidade e UF] | [Telefone com DDD] | [E-mail profissional]
+
+[LinkedIn, se tiver] | [GitHub ou portfólio, se tiver]
+
+Objetivo
+
+Estágio em [área ou cargo da vaga].
+
+Formação acadêmica
+
+[Nome do curso] — [Instituição]
+
+[Semestre ou período atual] | Conclusão prevista: [mês e ano]
+
+Conhecimentos técnicos
+
+[Linguagens e ferramentas que você já utilizou]
+
+[Descreva onde aplicou esses conhecimentos: disciplina, exercício ou projeto.]
+
+Projetos e atividades acadêmicas
+
+[Nome da atividade ou projeto] — [disciplina, curso ou iniciativa] | [ano]
+
+[O que você desenvolveu ou executou, usando quais ferramentas.]
+
+[Sua contribuição e o resultado que consegue demonstrar, sem inventar números.]
+
+[Link público do projeto, se houver]
+
+Cursos complementares
+
+[Nome do curso] — [Instituição] | [carga horária] | [ano]
+
+[Outro curso relevante, se houver]
+
+Idiomas
+
+[Idioma] — [nível que consegue demonstrar e contexto de uso]
+
+Disponibilidade
+
+[Dias e horários compatíveis com as aulas] | [Presencial, híbrido ou remoto]
