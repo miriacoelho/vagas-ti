@@ -3,7 +3,7 @@ import sys
 import unittest
 from pathlib import Path
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]/'scripts'))
-from collect import parse_job, relevant, official, extract_candidates
+from collect import parse_job, relevant, official, extract_candidates, canonical, match_lead
 
 class ValidationTests(unittest.TestCase):
     def page(self, deadline='2027-01-01', extra=''):
@@ -41,6 +41,33 @@ class ValidationTests(unittest.TestCase):
     def test_missing_apply_is_unconfirmed(self):
         raw=self.page().split('<a')[0]
         self.assertEqual(parse_job(raw,'https://empresa.gupy.io/jobs/1','2026-09-25T12:00:00Z')['status'],'unconfirmed')
+
+    def test_remote_other_city_accepted_but_hybrid_not(self):
+        self.assertTrue(relevant('Estágio em QA','São Paulo',True))
+        self.assertFalse(relevant('Estágio em QA','São Paulo',False))
+        raw=self.page().replace('Juiz de Fora','São Paulo')
+        extra='<script id="__NEXT_DATA__">'+json.dumps({'props':{'pageProps':{'job':{'status':'published','workplaceType':'remote'}}}})+'</script>'
+        job=parse_job(raw+extra,'https://empresa.gupy.io/jobs/1','2026-09-25T12:00:00Z')
+        self.assertEqual(job['mode'],'Remoto')
+        self.assertEqual(job['city'],'São Paulo')
+        self.assertEqual(job['scope'],'remote')
+
+    def test_gupy_full_payload_includes_later_pages(self):
+        payload={'props':{'pageProps':{'jobs':[{'id':42,'title':'Estágio em TI','workplace':{'address':{'city':'Juiz de Fora'},'workplaceType':'on-site'}}, {'id':43,'title':'Estágio em FinOps','workplace':{'address':{'city':''},'workplaceType':'remote'}}]}}}
+        raw='<script id="__NEXT_DATA__">'+json.dumps(payload)+'</script>'
+        self.assertEqual(extract_candidates(raw,'https://empresa.gupy.io/'),{'https://empresa.gupy.io/jobs/42','https://empresa.gupy.io/jobs/43'})
+
+    def test_nerdin_match_requires_company_and_title(self):
+        lead={'title':'Estágio em Desenvolvimento de Sistemas','company':'DOMO'}
+        jobs=[{'title':'Estágio | Desenvolvimento de Sistemas','company':'Domo Inovação'}]
+        self.assertIsNone(match_lead(lead,jobs,{}))
+        self.assertEqual(match_lead(lead,jobs,{'domo':['Domo Inovação']}),jobs[0])
+        self.assertIsNone(match_lead({'title':'Estágio em Dados','company':'DOMO'},jobs,{'domo':['Domo Inovação']}))
+
+    def test_gupy_encoded_url_canonicalizes(self):
+        import base64
+        token=base64.b64encode(json.dumps({'jobId':42,'source':'gupy_portal'}).encode()).decode()
+        self.assertEqual(canonical('https://empresa.gupy.io/job/'+token+'?jobBoardSource=portal'),'https://empresa.gupy.io/jobs/42')
 
 if __name__=='__main__':
     unittest.main()

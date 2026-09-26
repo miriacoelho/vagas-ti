@@ -3,13 +3,17 @@
     {"name":"Guiando","url":"https://atracaodetalentos.totvs.app/guiando/extended"},
     {"name":"Rede Verbita","url":"https://redeverbita.gupy.io/"},
     {"name":"Unimed Juiz de Fora","url":"https://unimedjf.gupy.io/"},
-    {"name":"Smart NX","url":"https://smartnx.gupy.io/"}
+    {"name":"Smart NX","url":"https://smartnx.gupy.io/"},
+    {"name":"DOMO Inovação","url":"https://domo.gupy.io/"},
+    {"name":"Apogeu","url":"https://apogeu.gupy.io/"}
   ],
   "discovery": [
     {"name":"Jobsora (descoberta)","url":"https://br.jobsora.com/empregos?query=estagio+ti&location=Juiz+de+Fora%2C+MG"},
     {"name":"AllLocalJobs (descoberta)","url":"https://br.alllocaljobs.com/empregos?location=Juiz+de+Fora%2C+MG"},
     {"name":"Vaganet (referência)","url":"https://vaganet.com.br/vaga/c78af017-834b-49e5-b1ee-bc71d2ca9ceb-estagio-em-banco-de-dados-2/"}
   ],
-  "seeds": ["https://redeverbita.gupy.io/jobs/11428209"],
-  "searches": ["estágio TI tecnologia Juiz de Fora site:gupy.io/jobs", "estágio Juiz de Fora site:atracaodetalentos.totvs.app"]
+  "nerdin": [{"name":"Nerdin — estágios e início de carreira","url":"https://www.nerdin.com.br/vagas-estagio-junior.php"}],
+  "companyAliases": {"domo":["Domo Inovação"]},
+  "seeds": ["https://redeverbita.gupy.io/jobs/11428209", "https://domo.gupy.io/jobs/12562352"],
+  "searches": []
 }
