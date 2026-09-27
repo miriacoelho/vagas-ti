@@ -1,26 +1,28 @@
 Seu nome completo
 
-[Cidade e UF] | [Telefone com DDD] | [E-mail profissional]
+ESTUDANTE DE [CURSO]  |  ESTÁGIO EM [ÁREA]
 
-[LinkedIn, se tiver] | [GitHub ou portfólio, se tiver]
+[Cidade e UF]  •  [Telefone com DDD]  •  [E-mail profissional]
 
-Objetivo
+[LinkedIn, se tiver]  •  [GitHub ou portfólio, se tiver]
+
+  OBJETIVO
 
 Estágio em [área ou cargo da vaga].
 
-Formação acadêmica
+  FORMAÇÃO ACADÊMICA
 
 [Nome do curso] — [Instituição]
 
 [Semestre ou período atual] | Conclusão prevista: [mês e ano]
 
-Conhecimentos técnicos
+  CONHECIMENTOS TÉCNICOS
 
 [Linguagens e ferramentas que você já utilizou]
 
 [Descreva onde aplicou esses conhecimentos: disciplina, exercício ou projeto.]
 
-Projetos e atividades acadêmicas
+  PROJETOS E ATIVIDADES ACADÊMICAS
 
 [Nome da atividade ou projeto] — [disciplina, curso ou iniciativa] | [ano]
 
@@ -30,16 +32,16 @@ Projetos e atividades acadêmicas
 
 [Link público do projeto, se houver]
 
-Cursos complementares
+  CURSOS COMPLEMENTARES
 
 [Nome do curso] — [Instituição] | [carga horária] | [ano]
 
 [Outro curso relevante, se houver]
 
-Idiomas
+  IDIOMAS
 
 [Idioma] — [nível que consegue demonstrar e contexto de uso]
 
-Disponibilidade
+  DISPONIBILIDADE
 
 [Dias e horários compatíveis com as aulas] | [Presencial, híbrido ou remoto]
