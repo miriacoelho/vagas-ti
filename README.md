@@ -27,6 +27,8 @@ A seção `#curriculos` oferece dois modelos originais gratuitos em DOCX editáv
 
 ## Rodar localmente
 
+Para apenas visualizar o site com os dados e modelos já incluídos, basta executar `python -m http.server 8765 --directory dist` e abrir http://localhost:8765.
+
 ```sh
 python -m pip install -r requirements.txt
 python -m unittest discover -s tests -v
@@ -35,6 +37,26 @@ python -m http.server 8765 --directory dist
 ```
 
 Abra http://localhost:8765. O frontend usa somente HTML, CSS e JavaScript. Fontes do Google são opcionais: há fontes locais de fallback.
+
+## Código dos modelos de currículo
+
+O gerador `scripts/create_resumes.py` cria os dois DOCX editáveis e suas versões TXT em `dist/downloads/`. Ele desenha os ícones e detalhes de cor, sem depender de imagens externas. Instale as dependências opcionais e execute a partir da raiz do projeto:
+
+```sh
+python -m pip install -r requirements-modelos.txt
+python scripts/create_resumes.py
+```
+
+Os textos, cores e estilos podem ser alterados nesse script. As prévias em `dist/images/` já estão incluídas; após modificar os modelos, renderize os DOCX novamente em um editor compatível e atualize essas imagens para manter as prévias correspondentes aos downloads.
+
+## Estrutura
+
+- `dist/`: página, estilos, JavaScript, dados das vagas, modelos e prévias.
+- `scripts/collect.py`: coleta e validação das oportunidades.
+- `scripts/create_resumes.py`: geração dos modelos de currículo.
+- `sources.json`: fontes monitoradas e critérios de descoberta.
+- `tests/`: testes do coletor.
+- `.github/workflows/update.yml`: atualização diária e publicação no GitHub Pages.
 
 ## Publicar
 
