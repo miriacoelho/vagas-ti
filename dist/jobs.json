@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-29T11:52:45.323417+00:00",
+  "checkedAt": "2026-09-29T16:54:53.422519+00:00",
   "jobs": [
     {
       "id": "https://domo.gupy.io/jobs/12597003",
@@ -14,7 +14,7 @@
       "talentPool": false,
       "sourceUrl": "https://domo.gupy.io/jobs/12597003",
       "applyUrl": "https://domo.gupy.io/jobs/12597003",
-      "checkedAt": "2026-09-29T11:52:45.323417+00:00",
+      "checkedAt": "2026-09-29T16:54:53.422519+00:00",
       "publishedAt": "2026-09-25",
       "deadline": "2026-09-29",
       "status": "active",
@@ -34,7 +34,7 @@
       "talentPool": false,
       "sourceUrl": "https://redeverbita.gupy.io/jobs/11428209",
       "applyUrl": "https://redeverbita.gupy.io/jobs/11428209",
-      "checkedAt": "2026-09-29T11:52:45.323417+00:00",
+      "checkedAt": "2026-09-29T16:54:53.422519+00:00",
       "publishedAt": "2026-06-03",
       "deadline": "2026-10-30",
       "status": "active",
@@ -54,7 +54,7 @@
       "talentPool": false,
       "sourceUrl": "https://domo.gupy.io/jobs/12562352",
       "applyUrl": "https://domo.gupy.io/jobs/12562352",
-      "checkedAt": "2026-09-29T11:52:45.323417+00:00",
+      "checkedAt": "2026-09-29T16:54:53.422519+00:00",
       "publishedAt": "2026-09-22",
       "deadline": "2026-09-24",
       "status": "expired",
@@ -75,7 +75,7 @@
       "talentPool": true,
       "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/21/banco-de-talentos-estagio-em-banco-de-dados",
       "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/c78af017-834b-49e5-b1ee-bc71d2ca9ceb?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
-      "checkedAt": "2026-09-29T11:52:45.323417+00:00",
+      "checkedAt": "2026-09-29T16:54:53.422519+00:00",
       "publishedAt": "2025-10-21",
       "deadline": "2026-01-31",
       "status": "expired",
@@ -95,7 +95,7 @@
       "talentPool": true,
       "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/22/banco-de-talentos-estagio-em-desenvolvimento",
       "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/cbcdebb5-ce04-449d-98e4-674fecb36b74?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
-      "checkedAt": "2026-09-29T11:52:45.323417+00:00",
+      "checkedAt": "2026-09-29T16:54:53.422519+00:00",
       "publishedAt": "2025-10-21",
       "deadline": "2025-12-31",
       "status": "expired",
@@ -115,7 +115,7 @@
       "talentPool": true,
       "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/23/banco-de-talentos-estagio-em-infraestrutura",
       "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/7ae3b5de-4197-45ba-8dfd-0fc2beb610e8?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
-      "checkedAt": "2026-09-29T11:52:45.323417+00:00",
+      "checkedAt": "2026-09-29T16:54:53.422519+00:00",
       "publishedAt": "2025-10-21",
       "deadline": "2026-01-31",
       "status": "expired",
@@ -142,7 +142,7 @@
       "name": "Unimed Juiz de Fora",
       "url": "https://unimedjf.gupy.io/",
       "status": "ok",
-      "candidates": 2,
+      "candidates": 3,
       "message": ""
     },
     {
@@ -191,7 +191,7 @@
       "url": "https://www.nerdin.com.br/vagas-estagio-junior.php",
       "status": "ok",
       "leads": 1,
-      "pages": 6,
+      "pages": 7,
       "message": ""
     },
     {
@@ -257,6 +257,11 @@
     {
       "name": "Anúncio: https://unimedjf.gupy.io/jobs/12534361",
       "url": "https://unimedjf.gupy.io/jobs/12534361",
+      "status": "ok"
+    },
+    {
+      "name": "Anúncio: https://unimedjf.gupy.io/jobs/12547556",
+      "url": "https://unimedjf.gupy.io/jobs/12547556",
       "status": "ok"
     }
   ],
