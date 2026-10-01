@@ -1,26 +1,6 @@
 {
-  "checkedAt": "2026-09-30T16:51:07.550616+00:00",
+  "checkedAt": "2026-10-01T17:24:45.284162+00:00",
   "jobs": [
-    {
-      "id": "https://redeverbita.gupy.io/jobs/11428209",
-      "title": "Estágio em TI - Uniacademia - JF/MG",
-      "company": "Rede Verbita de Educação",
-      "city": "Juiz de Fora",
-      "mode": "Presencial",
-      "scope": "local",
-      "salary": null,
-      "summary": "Prestar suporte técnico a coordenadores, professores, alunos e colaboradores técnico-administrativos; Realizar o atendimento e registro de chamados de Tecnologia da Informação, efetuando diagnósticos e solucionando ocorrências relacionadas a hardware e software; Auxiliar na instalação,…",
-      "description": "Descrição da vaga Prestar suporte técnico aos coordenadores, professores, alunos e colaboradores técnico-administrativos do Campus Arnaldo Janssen, realizando atendimento às demandas relacionadas à Tecnologia da Informação, incluindo infraestrutura, sistemas e recursos audiovisuais. Atuar na identificação e resolução de problemas técnicos, contribuindo para a continuidade e o pleno funcionamento das atividades acadêmicas e administrativas da instituição. Responsabilidades e atribuições Prestar suporte técnico a coordenadores, professores, alunos e colaboradores técnico-administrativos; Realizar o atendimento e registro de chamados de Tecnologia da Informação, efetuando diagnósticos e solucionando ocorrências relacionadas a hardware e software; Auxiliar na instalação, configuração e manutenção de computadores, impressoras e demais equipamentos de TI; Apoiar a administração básica da infraestrutura de rede e dos recursos de conectividade à internet; Prestar suporte aos sistemas institucionais utilizados nas atividades acadêmicas e administrativas; Executar suporte aos recursos audiovisuais, incluindo montagem, operação e desmontagem de equipamentos para aulas, eventos e reuniões; Contribuir para a organização, controle patrimonial e conservação dos equipamentos de Tecnologia da Informação e audiovisual; Apoiar a execução de manutenções preventivas e atualizações de sistemas, equipamentos e recursos tecnológicos; Colaborar com a equipe de TI na identificação e implementação de melhorias nos processos e serviços tecnológicos da instituição. Requisitos e qualificações Formação: Estar cursando Ensino Superior em Sistemas de Informação, Ciência da Computação, Análise e Desenvolvimento de Sistemas ou áreas correlatas à Tecnologia da Informação. Habilidades Requeridas: • Organização e atenção aos detalhes na execução das atividades; • Boa comunicação interpessoal e habilidade para atendimento ao público; • Organização, atenção aos detalhes e senso de priorização de demandas; • Proatividade, comprometimento e interesse em aprendizagem contínua; • Capacidade de trabalho em equipe e colaboração com diferentes áreas da instituição. Conhecimento Técnico: • Conhecimentos em manutenção básica de hardware, incluindo montagem, limpeza preventiva e substituição de componentes; • Habilidade para instalação, configuração e suporte a sistemas operacionais Windows; • Conhecimentos em instalação, atualização e suporte a softwares e aplicações corporativas; • Noções de redes de computadores, abrangendo protocolos TCP/IP, conectividade Wi-Fi e cabeamento estruturado; • Capacidade para configuração e suporte a impressoras e demais dispositivos periféricos; • Familiaridade com sistemas acadêmicos e administrativos, prestando suporte aos usuários quando necessário; • Conhecimentos básicos na operação, configuração e suporte a equipamentos audiovisuais, como projetores, caixas de som, microfones e sistemas de apresentação; • Noções de segurança da informação, incluindo utilização de antivírus, realização de backups e adoção de boas práticas de segurança digital. Informações adicionais Local de Trabalho: UniAcademia. Unidade: Juiz de Fora/MG. Segmento: Tecnologia da Informação. Carga Horária: 150 horas mensais. Horários: Segunda a Sexta, das 07h00 ás 13h00. Contratação: Efetiva - CLT. Salário: Informado durante a entrevista. Benefícios & Parcerias: * Vale Transporte. * Parceria com Totalpass (Custeado pelo colaborador). * Seguro de Vida.",
-      "talentPool": false,
-      "sourceUrl": "https://redeverbita.gupy.io/jobs/11428209",
-      "applyUrl": "https://redeverbita.gupy.io/jobs/11428209",
-      "checkedAt": "2026-09-30T16:51:07.550616+00:00",
-      "publishedAt": "2026-06-03",
-      "deadline": "2026-10-30",
-      "status": "active",
-      "statusLabel": "Inscrições disponíveis",
-      "warning": "O título indica estágio, mas o texto menciona contratação CLT. Confirme o vínculo com a empresa."
-    },
     {
       "id": "https://domo.gupy.io/jobs/12562352",
       "title": "Estágio | Desenvolvimento de Sistemas",
@@ -34,7 +14,7 @@
       "talentPool": false,
       "sourceUrl": "https://domo.gupy.io/jobs/12562352",
       "applyUrl": "https://domo.gupy.io/jobs/12562352",
-      "checkedAt": "2026-09-30T16:51:07.550616+00:00",
+      "checkedAt": "2026-10-01T17:24:45.284162+00:00",
       "publishedAt": "2026-09-22",
       "deadline": "2026-09-24",
       "status": "expired",
@@ -55,7 +35,7 @@
       "talentPool": false,
       "sourceUrl": "https://domo.gupy.io/jobs/12597003",
       "applyUrl": "https://domo.gupy.io/jobs/12597003",
-      "checkedAt": "2026-09-30T16:51:07.550616+00:00",
+      "checkedAt": "2026-10-01T17:24:45.284162+00:00",
       "publishedAt": "2026-09-25",
       "deadline": "2026-09-29",
       "status": "expired",
@@ -75,7 +55,7 @@
       "talentPool": true,
       "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/21/banco-de-talentos-estagio-em-banco-de-dados",
       "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/c78af017-834b-49e5-b1ee-bc71d2ca9ceb?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
-      "checkedAt": "2026-09-30T16:51:07.550616+00:00",
+      "checkedAt": "2026-10-01T17:24:45.284162+00:00",
       "publishedAt": "2025-10-21",
       "deadline": "2026-01-31",
       "status": "expired",
@@ -95,7 +75,7 @@
       "talentPool": true,
       "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/22/banco-de-talentos-estagio-em-desenvolvimento",
       "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/cbcdebb5-ce04-449d-98e4-674fecb36b74?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
-      "checkedAt": "2026-09-30T16:51:07.550616+00:00",
+      "checkedAt": "2026-10-01T17:24:45.284162+00:00",
       "publishedAt": "2025-10-21",
       "deadline": "2025-12-31",
       "status": "expired",
@@ -115,12 +95,32 @@
       "talentPool": true,
       "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/23/banco-de-talentos-estagio-em-infraestrutura",
       "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/7ae3b5de-4197-45ba-8dfd-0fc2beb610e8?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
-      "checkedAt": "2026-09-30T16:51:07.550616+00:00",
+      "checkedAt": "2026-10-01T17:24:45.284162+00:00",
       "publishedAt": "2025-10-21",
       "deadline": "2026-01-31",
       "status": "expired",
       "statusLabel": "Prazo informado encerrado",
       "warning": ""
+    },
+    {
+      "id": "https://redeverbita.gupy.io/jobs/11428209",
+      "title": "Estágio em TI - Uniacademia - JF/MG",
+      "company": "Rede Verbita de Educação",
+      "city": "Juiz de Fora",
+      "mode": "Presencial",
+      "scope": "local",
+      "salary": null,
+      "summary": "Prestar suporte técnico a coordenadores, professores, alunos e colaboradores técnico-administrativos; Realizar o atendimento e registro de chamados de Tecnologia da Informação, efetuando diagnósticos e solucionando ocorrências relacionadas a hardware e software; Auxiliar na instalação,…",
+      "description": "Descrição da vaga Prestar suporte técnico aos coordenadores, professores, alunos e colaboradores técnico-administrativos do Campus Arnaldo Janssen, realizando atendimento às demandas relacionadas à Tecnologia da Informação, incluindo infraestrutura, sistemas e recursos audiovisuais. Atuar na identificação e resolução de problemas técnicos, contribuindo para a continuidade e o pleno funcionamento das atividades acadêmicas e administrativas da instituição. Responsabilidades e atribuições Prestar suporte técnico a coordenadores, professores, alunos e colaboradores técnico-administrativos; Realizar o atendimento e registro de chamados de Tecnologia da Informação, efetuando diagnósticos e solucionando ocorrências relacionadas a hardware e software; Auxiliar na instalação, configuração e manutenção de computadores, impressoras e demais equipamentos de TI; Apoiar a administração básica da infraestrutura de rede e dos recursos de conectividade à internet; Prestar suporte aos sistemas institucionais utilizados nas atividades acadêmicas e administrativas; Executar suporte aos recursos audiovisuais, incluindo montagem, operação e desmontagem de equipamentos para aulas, eventos e reuniões; Contribuir para a organização, controle patrimonial e conservação dos equipamentos de Tecnologia da Informação e audiovisual; Apoiar a execução de manutenções preventivas e atualizações de sistemas, equipamentos e recursos tecnológicos; Colaborar com a equipe de TI na identificação e implementação de melhorias nos processos e serviços tecnológicos da instituição. Requisitos e qualificações Formação: Estar cursando Ensino Superior em Sistemas de Informação, Ciência da Computação, Análise e Desenvolvimento de Sistemas ou áreas correlatas à Tecnologia da Informação. Habilidades Requeridas: • Organização e atenção aos detalhes na execução das atividades; • Boa comunicação interpessoal e habilidade para atendimento ao público; • Organização, atenção aos detalhes e senso de priorização de demandas; • Proatividade, comprometimento e interesse em aprendizagem contínua; • Capacidade de trabalho em equipe e colaboração com diferentes áreas da instituição. Conhecimento Técnico: • Conhecimentos em manutenção básica de hardware, incluindo montagem, limpeza preventiva e substituição de componentes; • Habilidade para instalação, configuração e suporte a sistemas operacionais Windows; • Conhecimentos em instalação, atualização e suporte a softwares e aplicações corporativas; • Noções de redes de computadores, abrangendo protocolos TCP/IP, conectividade Wi-Fi e cabeamento estruturado; • Capacidade para configuração e suporte a impressoras e demais dispositivos periféricos; • Familiaridade com sistemas acadêmicos e administrativos, prestando suporte aos usuários quando necessário; • Conhecimentos básicos na operação, configuração e suporte a equipamentos audiovisuais, como projetores, caixas de som, microfones e sistemas de apresentação; • Noções de segurança da informação, incluindo utilização de antivírus, realização de backups e adoção de boas práticas de segurança digital. Informações adicionais Local de Trabalho: UniAcademia. Unidade: Juiz de Fora/MG. Segmento: Tecnologia da Informação. Carga Horária: 150 horas mensais. Horários: Segunda a Sexta, das 07h00 ás 13h00. Contratação: Efetiva - CLT. Salário: Informado durante a entrevista. Benefícios & Parcerias: * Vale Transporte. * Parceria com Totalpass (Custeado pelo colaborador). * Seguro de Vida.",
+      "talentPool": false,
+      "sourceUrl": "https://redeverbita.gupy.io/jobs/11428209",
+      "applyUrl": "https://redeverbita.gupy.io/jobs/11428209",
+      "checkedAt": "2026-10-01T17:24:45.284162+00:00",
+      "publishedAt": "2026-06-03",
+      "deadline": "2026-10-30",
+      "status": "closed",
+      "statusLabel": "Inscrições encerradas",
+      "warning": "O título indica estágio, mas o texto menciona contratação CLT. Confirme o vínculo com a empresa."
     }
   ],
   "sources": [
@@ -135,14 +135,14 @@
       "name": "Rede Verbita",
       "url": "https://redeverbita.gupy.io/",
       "status": "ok",
-      "candidates": 1,
+      "candidates": 0,
       "message": ""
     },
     {
       "name": "Unimed Juiz de Fora",
       "url": "https://unimedjf.gupy.io/",
       "status": "ok",
-      "candidates": 2,
+      "candidates": 3,
       "message": ""
     },
     {
@@ -163,7 +163,7 @@
       "name": "Apogeu",
       "url": "https://apogeu.gupy.io/",
       "status": "ok",
-      "candidates": 3,
+      "candidates": 1,
       "message": ""
     },
     {
@@ -230,16 +230,6 @@
       "status": "ok"
     },
     {
-      "name": "Anúncio: https://apogeu.gupy.io/jobs/11535480",
-      "url": "https://apogeu.gupy.io/jobs/11535480",
-      "status": "ok"
-    },
-    {
-      "name": "Anúncio: https://apogeu.gupy.io/jobs/11535506",
-      "url": "https://apogeu.gupy.io/jobs/11535506",
-      "status": "ok"
-    },
-    {
       "name": "Anúncio: https://atracaodetalentos.totvs.app/guiando/24/banco-de-talentos-estagio-em-backoffice",
       "url": "https://atracaodetalentos.totvs.app/guiando/24/banco-de-talentos-estagio-em-backoffice",
       "status": "ok"
@@ -257,6 +247,11 @@
     {
       "name": "Anúncio: https://unimedjf.gupy.io/jobs/12534361",
       "url": "https://unimedjf.gupy.io/jobs/12534361",
+      "status": "ok"
+    },
+    {
+      "name": "Anúncio: https://unimedjf.gupy.io/jobs/12547556",
+      "url": "https://unimedjf.gupy.io/jobs/12547556",
       "status": "ok"
     }
   ],
