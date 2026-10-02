@@ -1,27 +1,6 @@
 {
-  "checkedAt": "2026-10-01T17:24:45.284162+00:00",
+  "checkedAt": "2026-10-02T16:42:04.857222+00:00",
   "jobs": [
-    {
-      "id": "https://domo.gupy.io/jobs/12562352",
-      "title": "Estágio | Desenvolvimento de Sistemas",
-      "company": "Domo Inovação",
-      "city": "Brasil",
-      "mode": "Remoto",
-      "scope": "remote",
-      "salary": "R$3.000,00",
-      "summary": "Seus principais desafios serão: Auxiliar no levantamento e na documentação estruturada de requisitos funcionais e não funcionais, acompanhando reuniões com os solicitantes para compreender as necessidades do negócio; Apoiar o time na construção de roteiros, bem como na execução e no…",
-      "description": "Descrição da vaga Somos o DOMO O hub de inovação e tecnologia de um dos maiores e mais consolidados bancos do Brasil: o Banco Mercantil. Criado para atuar como um núcleo de desenvolvimento de soluções conectadas com o novo e com as demandas do futuro. Somos intensos na busca por soluções e acreditamos que, para sermos inovadores, precisamos trabalhar em uma esfera profunda de ideias sem restrições. Aqui, boas ideias sempre têm espaço. Acreditamos na força da diversidade e no poder da inclusão para transformar realidades. Por isso, nossas oportunidades são estendidas a pessoas com deficiência, pessoas pretas e indígenas, LGBTQIAPN+, pessoas com mais de 50 anos, mulheres cadastradas em programas assistenciais de enfrentamento à violência doméstica, entre outros grupos minorizados. Seguimos firmes na construção de um ambiente justo, representativo e com oportunidades reais para todas e todos. Vem com a gente! Se você se identificou, venha fazer parte. #VEMSERDOMO Responsabilidades e atribuições Seus principais desafios serão: Auxiliar no levantamento e na documentação estruturada de requisitos funcionais e não funcionais, acompanhando reuniões com os solicitantes para compreender as necessidades do negócio; Apoiar o time na construção de roteiros, bem como na execução e no acompanhamento de testes unitários e integrados, ajudando durante o processo de homologação pelo usuário; Acompanhar o planejamento de implantações e rotinas de produção, compreendendo aos poucos como funcionam as análises de riscos e os planos de contingência e rollback; Ajudar na identificação de incidentes e problemas de sistemas, prestando apoio na documentação clara de débitos técnicos para que sejam priorizados posteriormente pela equipe. Requisitos e qualificações Buscamos uma pessoa com: Estudantes de ensino superior, devidamente matriculados na instituição de ensino, preferencialmente cursando, Ciências da Computação, Sistema de Informação, Análise e desenvolvimento de sistemas ou áreas afins. Interesse para desenvolver competências práticas nas tecnologias COBOL/CICS/DB2 e COBOL batch; Noções fundamentais de desenvolvimento de Software; Vai se destacar se apresentar: Noções acadêmicas ou práticas em .Net C#, Sqlserver, Esteira DEVOPS e metodologias ágeis. Curiosidade por sistemas bancários, arquitetura de sistemas, microsserviços e modernização de sistemas legados; Local de trabalho: Remoto Informações adicionais O que oferecemos às pessoas estagiárias: • Bolsa Estágio no valor de R$3.000,00; • Academia Mercantil de Desenvolvimento; • Seguro de Vida - sem desconto no valor da bolsa; • Day Off.",
-      "talentPool": false,
-      "sourceUrl": "https://domo.gupy.io/jobs/12562352",
-      "applyUrl": "https://domo.gupy.io/jobs/12562352",
-      "checkedAt": "2026-10-01T17:24:45.284162+00:00",
-      "publishedAt": "2026-09-22",
-      "deadline": "2026-09-24",
-      "status": "expired",
-      "statusLabel": "Prazo informado encerrado",
-      "warning": "Confira na candidatura as restrições de residência e eventuais encontros presenciais.",
-      "discoveredVia": "Nerdin"
-    },
     {
       "id": "https://domo.gupy.io/jobs/12597003",
       "title": "Estágio | FinOps",
@@ -35,12 +14,53 @@
       "talentPool": false,
       "sourceUrl": "https://domo.gupy.io/jobs/12597003",
       "applyUrl": "https://domo.gupy.io/jobs/12597003",
-      "checkedAt": "2026-10-01T17:24:45.284162+00:00",
+      "checkedAt": "2026-10-02T16:42:04.857222+00:00",
       "publishedAt": "2026-09-25",
-      "deadline": "2026-09-29",
+      "deadline": "2026-10-05",
+      "status": "active",
+      "statusLabel": "Inscrições disponíveis",
+      "warning": "Confira na candidatura as restrições de residência e eventuais encontros presenciais."
+    },
+    {
+      "id": "https://institutoeldorado.gupy.io/jobs/12601828",
+      "title": "Estágio em Automação de Testes / Desenvolvimento de Software",
+      "company": "Vagas Instituto de Pesquisas Eldorado",
+      "city": "Brasil",
+      "mode": "Remoto",
+      "scope": "remote",
+      "salary": null,
+      "summary": "Desenvolver e manter soluções de automação de testes para smartphones Android. Criar ferramentas e scripts para coleta, processamento e análise de dados. Automatizar processos de validação, captura de evidências e geração de relatórios. Investigar falhas e apoiar análises de causa raiz.…",
+      "description": "Descrição da vaga PcDs são sempre bem-vindas. Buscamos pessoas apaixonadas por tecnologia. Alguém que se motive por desafios e atue com autonomia. Precisa gostar de trabalhar em equipe e possuir espírito colaborativo. Responsabilidades e atribuições Desenvolver e manter soluções de automação de testes para smartphones Android. Criar ferramentas e scripts para coleta, processamento e análise de dados. Automatizar processos de validação, captura de evidências e geração de relatórios. Investigar falhas e apoiar análises de causa raiz. Desenvolver soluções utilizando Java, Python e Android. Aplicar o Gemini Code Assist (GCA) no dia a dia para acelerar o desenvolvimento, melhorar a qualidade do código e aumentar a produtividade da equipe. Requisitos e qualificações Cursando graduação em Ciência da Computação, Engenharia da Computação, Engenharia de Software, Sistemas de Informação ou áreas correlatas.  Conhecimento em desenvolvimento de software utilizando Java e Python. Conhecimento da plataforma Android e suas principais ferramentas de desenvolvimento. Experiência ou capacidade comprovada de utilização de ferramentas de desenvolvimento assistidas por Inteligência Artificial, especialmente o Gemini Code Assist (GCA), para desenvolvimento, depuração, documentação e otimização de código. Conhecimento de lógica de programação, orientação a objetos e estruturas de dados. Inglês avançado para leitura, escrita e conversação.\n\nDiferenciais: Experiência com Git e controle de versão. Conhecimento em frameworks de automação de testes. Conhecimento em Machine Learning, Inteligência Artificial ou análise de dados. Informações adicionais “O Instituto de Pesquisas Eldorado valoriza um ambiente diversificado e se orgulha de ser uma organização que oferece oportunidades de forma igualitária. Todos que se candidatarem serão avaliados, independentemente de raça, deficiência, cor, religião, sexo, identidade ou expressão de gênero, orientação sexual, nacionalidade ou idade”.",
+      "talentPool": false,
+      "sourceUrl": "https://institutoeldorado.gupy.io/jobs/12601828",
+      "applyUrl": "https://institutoeldorado.gupy.io/jobs/12601828",
+      "checkedAt": "2026-10-02T16:42:04.857222+00:00",
+      "publishedAt": "2026-10-02",
+      "deadline": "2026-11-24",
+      "status": "active",
+      "statusLabel": "Inscrições disponíveis",
+      "warning": "Confira na candidatura as restrições de residência e eventuais encontros presenciais."
+    },
+    {
+      "id": "https://domo.gupy.io/jobs/12562352",
+      "title": "Estágio | Desenvolvimento de Sistemas",
+      "company": "Domo Inovação",
+      "city": "Brasil",
+      "mode": "Remoto",
+      "scope": "remote",
+      "salary": "R$3.000,00",
+      "summary": "Seus principais desafios serão: Auxiliar no levantamento e na documentação estruturada de requisitos funcionais e não funcionais, acompanhando reuniões com os solicitantes para compreender as necessidades do negócio; Apoiar o time na construção de roteiros, bem como na execução e no…",
+      "description": "Descrição da vaga Somos o DOMO O hub de inovação e tecnologia de um dos maiores e mais consolidados bancos do Brasil: o Banco Mercantil. Criado para atuar como um núcleo de desenvolvimento de soluções conectadas com o novo e com as demandas do futuro. Somos intensos na busca por soluções e acreditamos que, para sermos inovadores, precisamos trabalhar em uma esfera profunda de ideias sem restrições. Aqui, boas ideias sempre têm espaço. Acreditamos na força da diversidade e no poder da inclusão para transformar realidades. Por isso, nossas oportunidades são estendidas a pessoas com deficiência, pessoas pretas e indígenas, LGBTQIAPN+, pessoas com mais de 50 anos, mulheres cadastradas em programas assistenciais de enfrentamento à violência doméstica, entre outros grupos minorizados. Seguimos firmes na construção de um ambiente justo, representativo e com oportunidades reais para todas e todos. Vem com a gente! Se você se identificou, venha fazer parte. #VEMSERDOMO Responsabilidades e atribuições Seus principais desafios serão: Auxiliar no levantamento e na documentação estruturada de requisitos funcionais e não funcionais, acompanhando reuniões com os solicitantes para compreender as necessidades do negócio; Apoiar o time na construção de roteiros, bem como na execução e no acompanhamento de testes unitários e integrados, ajudando durante o processo de homologação pelo usuário; Acompanhar o planejamento de implantações e rotinas de produção, compreendendo aos poucos como funcionam as análises de riscos e os planos de contingência e rollback; Ajudar na identificação de incidentes e problemas de sistemas, prestando apoio na documentação clara de débitos técnicos para que sejam priorizados posteriormente pela equipe. Requisitos e qualificações Buscamos uma pessoa com: Estudantes de ensino superior, devidamente matriculados na instituição de ensino, preferencialmente cursando, Ciências da Computação, Sistema de Informação, Análise e desenvolvimento de sistemas ou áreas afins. Interesse para desenvolver competências práticas nas tecnologias COBOL/CICS/DB2 e COBOL batch; Noções fundamentais de desenvolvimento de Software; Vai se destacar se apresentar: Noções acadêmicas ou práticas em .Net C#, Sqlserver, Esteira DEVOPS e metodologias ágeis. Curiosidade por sistemas bancários, arquitetura de sistemas, microsserviços e modernização de sistemas legados; Local de trabalho: Remoto Informações adicionais O que oferecemos às pessoas estagiárias: • Bolsa Estágio no valor de R$3.000,00; • Academia Mercantil de Desenvolvimento; • Seguro de Vida - sem desconto no valor da bolsa; • Day Off.",
+      "talentPool": false,
+      "sourceUrl": "https://domo.gupy.io/jobs/12562352",
+      "applyUrl": "https://domo.gupy.io/jobs/12562352",
+      "checkedAt": "2026-10-02T16:42:04.857222+00:00",
+      "publishedAt": "2026-09-22",
+      "deadline": "2026-09-24",
       "status": "expired",
       "statusLabel": "Prazo informado encerrado",
-      "warning": "Confira na candidatura as restrições de residência e eventuais encontros presenciais."
+      "warning": "Confira na candidatura as restrições de residência e eventuais encontros presenciais.",
+      "discoveredVia": "Nerdin"
     },
     {
       "id": "https://atracaodetalentos.totvs.app/guiando/21/banco-de-talentos-estagio-em-banco-de-dados",
@@ -55,7 +75,7 @@
       "talentPool": true,
       "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/21/banco-de-talentos-estagio-em-banco-de-dados",
       "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/c78af017-834b-49e5-b1ee-bc71d2ca9ceb?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
-      "checkedAt": "2026-10-01T17:24:45.284162+00:00",
+      "checkedAt": "2026-10-02T16:42:04.857222+00:00",
       "publishedAt": "2025-10-21",
       "deadline": "2026-01-31",
       "status": "expired",
@@ -75,7 +95,7 @@
       "talentPool": true,
       "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/22/banco-de-talentos-estagio-em-desenvolvimento",
       "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/cbcdebb5-ce04-449d-98e4-674fecb36b74?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
-      "checkedAt": "2026-10-01T17:24:45.284162+00:00",
+      "checkedAt": "2026-10-02T16:42:04.857222+00:00",
       "publishedAt": "2025-10-21",
       "deadline": "2025-12-31",
       "status": "expired",
@@ -95,7 +115,7 @@
       "talentPool": true,
       "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/23/banco-de-talentos-estagio-em-infraestrutura",
       "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/7ae3b5de-4197-45ba-8dfd-0fc2beb610e8?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
-      "checkedAt": "2026-10-01T17:24:45.284162+00:00",
+      "checkedAt": "2026-10-02T16:42:04.857222+00:00",
       "publishedAt": "2025-10-21",
       "deadline": "2026-01-31",
       "status": "expired",
@@ -115,12 +135,33 @@
       "talentPool": false,
       "sourceUrl": "https://redeverbita.gupy.io/jobs/11428209",
       "applyUrl": "https://redeverbita.gupy.io/jobs/11428209",
-      "checkedAt": "2026-10-01T17:24:45.284162+00:00",
+      "checkedAt": "2026-10-02T16:42:04.857222+00:00",
       "publishedAt": "2026-06-03",
       "deadline": "2026-10-30",
       "status": "closed",
       "statusLabel": "Inscrições encerradas",
       "warning": "O título indica estágio, mas o texto menciona contratação CLT. Confirme o vínculo com a empresa."
+    },
+    {
+      "id": "https://spcbrasil.gupy.io/jobs/12165661",
+      "title": "Estagiário(a) Desenvolvimento de Sistemas",
+      "company": "SPC Brasil",
+      "city": "Brasil",
+      "mode": "Remoto",
+      "scope": "remote",
+      "salary": null,
+      "summary": "O seu desafio no SPC será: - Realizar atividades que envolvam as etapas do desenvolvimento e sustentação de sistemas, sejam estas quais forem, sendo sempre monitorado por um analista/desenvolvedor ou programador responsável, além de auxiliar e apoiar no atendimento das necessidades do…",
+      "description": "Descrição da vaga Sobre Nós: O SPC Brasil é uma organização de Gestão e Inteligência de Dados, oferecemos soluções a consumidores e empresários com o objetivo de facilitar a realização de negócios por meio de dados inteligentes e tecnologia. O nosso objetivo é não apenas ser o maior banco de dados da América Latina, mas a principal plataforma integradora de informação e inteligência de dados, capaz de impulsionar e transformar toda a economia e a sociedade. Priorizamos a inclusão de pessoas em nossos times, buscamos candidatos independentemente de cor, gênero, raça, credo ou deficiência. Todos são bem-vindos em nosso processo seletivo! Procuramos por um Estagiário(a) Responsabilidades e atribuições O seu desafio no SPC será: - Realizar atividades que envolvam as etapas do desenvolvimento e sustentação de sistemas, sejam estas quais forem, sendo sempre monitorado por um analista/desenvolvedor ou programador responsável, além de auxiliar e apoiar no atendimento das necessidades do dia-a-dia e demandas pontuais da área. Requisitos e qualificações Para isso, buscamos alguém com - Ensino Superior em andamento em áreas correlacionadas à TI; - Conhecimento em programação; - Conhecimento em orientação a objetos; -  D esejável conhecimento de prática de desenvolvimento seguro. ﻿Será um diferencial se você possuir: - Conhecimento em JAVA; - Conhecimento em SQL e PL/SQL; - Conhecimento em inteligência artificial. (IA generativa) Informações adicionais O que oferecemos: ✨  Jornada flexível 💳 Flash Benefícios + auxílio teletrabalho 🩺 Plano de Saúde SulAmerica e Médica do trabalho e Plano Odontológico SulAmérica 🛡️ Seguro de Vida 🏋️ TotalPass 🤝 C4 Life: apoio psicológico, financeiro e social com especialistas 💰 PLR (Participação nos Resultados) 💍 Premiação casamento 👶 Auxílio-creche e 🍼 Kit SPC Baby 🎂 Day Off de aniversário 🏖️ Convênio SESC 🎓 Parcerias educacionais 📲 SPC Avisa – monitoramento do CPF 24h 🔐 Certificado Digital SPC Brasil Quer saber mais? ☑️ http://www.spcbrasil.com.br ☑️ https://www.linkedin.com/company/spcbrasil/ ☑️ https://www.youtube.com/user/spcbrasilcomunica #VERMSERTUDOISSO",
+      "talentPool": false,
+      "sourceUrl": "https://spcbrasil.gupy.io/jobs/12165661",
+      "applyUrl": "https://spcbrasil.gupy.io/jobs/12165661",
+      "checkedAt": "2026-10-02T16:42:04.857222+00:00",
+      "publishedAt": "2026-09-03",
+      "deadline": "2026-10-03",
+      "status": "closed",
+      "statusLabel": "Inscrições encerradas",
+      "warning": "Confira na candidatura as restrições de residência e eventuais encontros presenciais.",
+      "discoveredVia": "Nerdin"
     }
   ],
   "sources": [
@@ -142,7 +183,7 @@
       "name": "Unimed Juiz de Fora",
       "url": "https://unimedjf.gupy.io/",
       "status": "ok",
-      "candidates": 3,
+      "candidates": 1,
       "message": ""
     },
     {
@@ -190,7 +231,7 @@
       "name": "Nerdin — estágios e início de carreira",
       "url": "https://www.nerdin.com.br/vagas-estagio-junior.php",
       "status": "ok",
-      "leads": 1,
+      "leads": 4,
       "pages": 7,
       "message": ""
     },
@@ -240,23 +281,63 @@
       "status": "ok"
     },
     {
-      "name": "Anúncio: https://unimedjf.gupy.io/jobs/12457764",
-      "url": "https://unimedjf.gupy.io/jobs/12457764",
+      "name": "Anúncio: https://institutoeldorado.gupy.io/jobs/12452323",
+      "url": "https://institutoeldorado.gupy.io/jobs/12452323",
+      "status": "error",
+      "message": "Página sem dados estruturados de vaga; revisão necessária"
+    },
+    {
+      "name": "Anúncio: https://institutoeldorado.gupy.io/jobs/12601828",
+      "url": "https://institutoeldorado.gupy.io/jobs/12601828",
+      "status": "ok"
+    },
+    {
+      "name": "Anúncio: https://spcbrasil.gupy.io/jobs/12165661",
+      "url": "https://spcbrasil.gupy.io/jobs/12165661",
       "status": "ok"
     },
     {
       "name": "Anúncio: https://unimedjf.gupy.io/jobs/12534361",
       "url": "https://unimedjf.gupy.io/jobs/12534361",
       "status": "ok"
-    },
-    {
-      "name": "Anúncio: https://unimedjf.gupy.io/jobs/12547556",
-      "url": "https://unimedjf.gupy.io/jobs/12547556",
-      "status": "ok"
     }
   ],
   "discovery": {
     "nerdin": [
+      {
+        "title": "Estagiário(a) Desenvolvimento de Sistemas",
+        "company": "SPC Brasil",
+        "discoverySource": "Nerdin",
+        "discoveryUrl": "https://www.nerdin.com.br/vaga_emprego/vaga-estagiario-a-desenvolvimento-de-sistemas-99416.php",
+        "mode": "Remoto",
+        "directUrls": [
+          "https://spcbrasil.gupy.io/jobs/12165661"
+        ],
+        "resolved": true,
+        "officialUrl": "https://spcbrasil.gupy.io/jobs/12165661"
+      },
+      {
+        "title": "Estágio Desenvolvimento Android",
+        "company": "Instituto Eldorado",
+        "discoverySource": "Nerdin",
+        "discoveryUrl": "https://www.nerdin.com.br/vaga_emprego/vaga-estagio-desenvolvimento-android-99408.php",
+        "mode": "Remoto",
+        "directUrls": [
+          "https://institutoeldorado.gupy.io/jobs/12452323"
+        ],
+        "resolved": false
+      },
+      {
+        "title": "Estágio em Automação de Testes / Desenvolvimento de Software",
+        "company": "Instituto Eldorado",
+        "discoverySource": "Nerdin",
+        "discoveryUrl": "https://www.nerdin.com.br/vaga_emprego/vaga-estagio-em-automacao-de-testes-desenvolvimento-de-software-99409.php",
+        "mode": "Remoto",
+        "directUrls": [
+          "https://institutoeldorado.gupy.io/jobs/12601828"
+        ],
+        "resolved": false
+      },
       {
         "title": "Estágio em Desenvolvimento de Sistemas",
         "company": "DOMO",
@@ -268,6 +349,6 @@
         "officialUrl": "https://domo.gupy.io/jobs/12562352"
       }
     ],
-    "unresolved": 0
+    "unresolved": 2
   }
 }
