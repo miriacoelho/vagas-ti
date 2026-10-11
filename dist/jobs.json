@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-10T16:15:35.685529+00:00",
+  "checkedAt": "2026-10-11T16:40:11.965291+00:00",
   "jobs": [
     {
       "id": "https://institutoeldorado.gupy.io/jobs/12601828",
@@ -14,7 +14,7 @@
       "talentPool": false,
       "sourceUrl": "https://institutoeldorado.gupy.io/jobs/12601828",
       "applyUrl": "https://institutoeldorado.gupy.io/jobs/12601828",
-      "checkedAt": "2026-10-10T16:15:35.685529+00:00",
+      "checkedAt": "2026-10-11T16:40:11.965291+00:00",
       "publishedAt": "2026-10-02",
       "deadline": "2026-11-24",
       "status": "active",
@@ -34,13 +34,12 @@
       "talentPool": false,
       "sourceUrl": "https://domo.gupy.io/jobs/12562352",
       "applyUrl": "https://domo.gupy.io/jobs/12562352",
-      "checkedAt": "2026-10-10T16:15:35.685529+00:00",
+      "checkedAt": "2026-10-11T16:40:11.965291+00:00",
       "publishedAt": "2026-09-22",
       "deadline": "2026-09-24",
       "status": "expired",
       "statusLabel": "Prazo informado encerrado",
-      "warning": "Confira na candidatura as restrições de residência e eventuais encontros presenciais.",
-      "discoveredVia": "Nerdin"
+      "warning": "Confira na candidatura as restrições de residência e eventuais encontros presenciais."
     },
     {
       "id": "https://domo.gupy.io/jobs/12597003",
@@ -55,7 +54,7 @@
       "talentPool": false,
       "sourceUrl": "https://domo.gupy.io/jobs/12597003",
       "applyUrl": "https://domo.gupy.io/jobs/12597003",
-      "checkedAt": "2026-10-10T16:15:35.685529+00:00",
+      "checkedAt": "2026-10-11T16:40:11.965291+00:00",
       "publishedAt": "2026-09-25",
       "deadline": "2026-10-05",
       "status": "expired",
@@ -75,7 +74,7 @@
       "talentPool": true,
       "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/21/banco-de-talentos-estagio-em-banco-de-dados",
       "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/c78af017-834b-49e5-b1ee-bc71d2ca9ceb?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
-      "checkedAt": "2026-10-10T16:15:35.685529+00:00",
+      "checkedAt": "2026-10-11T16:40:11.965291+00:00",
       "publishedAt": "2025-10-21",
       "deadline": "2026-01-31",
       "status": "expired",
@@ -95,7 +94,7 @@
       "talentPool": true,
       "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/22/banco-de-talentos-estagio-em-desenvolvimento",
       "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/cbcdebb5-ce04-449d-98e4-674fecb36b74?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
-      "checkedAt": "2026-10-10T16:15:35.685529+00:00",
+      "checkedAt": "2026-10-11T16:40:11.965291+00:00",
       "publishedAt": "2025-10-21",
       "deadline": "2025-12-31",
       "status": "expired",
@@ -115,7 +114,7 @@
       "talentPool": true,
       "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/23/banco-de-talentos-estagio-em-infraestrutura",
       "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/7ae3b5de-4197-45ba-8dfd-0fc2beb610e8?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
-      "checkedAt": "2026-10-10T16:15:35.685529+00:00",
+      "checkedAt": "2026-10-11T16:40:11.965291+00:00",
       "publishedAt": "2025-10-21",
       "deadline": "2026-01-31",
       "status": "expired",
@@ -135,7 +134,7 @@
       "talentPool": false,
       "sourceUrl": "https://redeverbita.gupy.io/jobs/11428209",
       "applyUrl": "https://redeverbita.gupy.io/jobs/11428209",
-      "checkedAt": "2026-10-10T16:15:35.685529+00:00",
+      "checkedAt": "2026-10-11T16:40:11.965291+00:00",
       "publishedAt": "2026-06-03",
       "deadline": "2026-10-30",
       "status": "closed",
@@ -155,13 +154,12 @@
       "talentPool": false,
       "sourceUrl": "https://spcbrasil.gupy.io/jobs/12165661",
       "applyUrl": "https://spcbrasil.gupy.io/jobs/12165661",
-      "checkedAt": "2026-10-10T16:15:35.685529+00:00",
+      "checkedAt": "2026-10-11T16:40:11.965291+00:00",
       "publishedAt": "2026-09-03",
       "deadline": "2026-10-03",
       "status": "expired",
       "statusLabel": "Prazo informado encerrado",
-      "warning": "Confira na candidatura as restrições de residência e eventuais encontros presenciais.",
-      "discoveredVia": "Nerdin"
+      "warning": "Confira na candidatura as restrições de residência e eventuais encontros presenciais."
     }
   ],
   "sources": [
@@ -230,10 +228,8 @@
     {
       "name": "Nerdin — estágios e início de carreira",
       "url": "https://www.nerdin.com.br/vagas-estagio-junior.php",
-      "status": "ok",
-      "leads": 4,
-      "pages": 8,
-      "message": ""
+      "status": "error",
+      "message": "HTTPSConnectionPool(host='www.nerdin.com.br', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='www.nerdin.com.br', port=443): Failed to resol"
     },
     {
       "name": "Anúncio: https://atracaodetalentos.totvs.app/guiando/21/banco-de-talentos-estagio-em-banco-de-dados",
@@ -299,61 +295,10 @@
       "name": "Anúncio: https://atracaodetalentos.totvs.app/guiando/25/banco-de-talentos-estagio-em-onboarding",
       "url": "https://atracaodetalentos.totvs.app/guiando/25/banco-de-talentos-estagio-em-onboarding",
       "status": "ok"
-    },
-    {
-      "name": "Anúncio: https://institutoeldorado.gupy.io/jobs/12452323",
-      "url": "https://institutoeldorado.gupy.io/jobs/12452323",
-      "status": "error",
-      "message": "Página sem dados estruturados de vaga; revisão necessária"
     }
   ],
   "discovery": {
-    "nerdin": [
-      {
-        "title": "Estagiário(a) Desenvolvimento de Sistemas",
-        "company": "SPC Brasil",
-        "discoverySource": "Nerdin",
-        "discoveryUrl": "https://www.nerdin.com.br/vaga_emprego/vaga-estagiario-a-desenvolvimento-de-sistemas-99416.php",
-        "mode": "Remoto",
-        "directUrls": [
-          "https://spcbrasil.gupy.io/jobs/12165661"
-        ],
-        "resolved": true,
-        "officialUrl": "https://spcbrasil.gupy.io/jobs/12165661"
-      },
-      {
-        "title": "Estágio Desenvolvimento Android",
-        "company": "Instituto Eldorado",
-        "discoverySource": "Nerdin",
-        "discoveryUrl": "https://www.nerdin.com.br/vaga_emprego/vaga-estagio-desenvolvimento-android-99408.php",
-        "mode": "Remoto",
-        "directUrls": [
-          "https://institutoeldorado.gupy.io/jobs/12452323"
-        ],
-        "resolved": false
-      },
-      {
-        "title": "Estágio em Automação de Testes / Desenvolvimento de Software",
-        "company": "Instituto Eldorado",
-        "discoverySource": "Nerdin",
-        "discoveryUrl": "https://www.nerdin.com.br/vaga_emprego/vaga-estagio-em-automacao-de-testes-desenvolvimento-de-software-99409.php",
-        "mode": "Remoto",
-        "directUrls": [
-          "https://institutoeldorado.gupy.io/jobs/12601828"
-        ],
-        "resolved": false
-      },
-      {
-        "title": "Estágio em Desenvolvimento de Sistemas",
-        "company": "DOMO",
-        "discoverySource": "Nerdin",
-        "discoveryUrl": "https://www.nerdin.com.br/vaga_emprego/vaga-estagio-em-desenvolvimento-de-sistemas-99103.php",
-        "mode": "Remoto",
-        "directUrls": [],
-        "resolved": true,
-        "officialUrl": "https://domo.gupy.io/jobs/12562352"
-      }
-    ],
-    "unresolved": 2
+    "nerdin": [],
+    "unresolved": 0
   }
 }
