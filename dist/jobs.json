@@ -1,6 +1,26 @@
 {
-  "checkedAt": "2026-10-18T14:39:15.710151+00:00",
+  "checkedAt": "2026-10-19T17:33:06.145185+00:00",
   "jobs": [
+    {
+      "id": "https://estagio-e-trainee-infnet.gupy.io/jobs/12540405",
+      "title": "Estágio em Contabilidade: Dados e Inteligência Artificial",
+      "company": "Instituto Infnet - Programa de Estágios e Trainees",
+      "city": "Brasil",
+      "mode": "Remoto",
+      "scope": "remote",
+      "salary": "R$1.600,00.",
+      "summary": "Atuar junto aos gestores da área desenvolvendo as seguintes atividades: Criar visões analíticas e apresentações de dados contábeis e financeiros; Preparar, organizar e estruturar dados contábeis para alimentar modelos de Inteligência Artificial; Dar suporte no desenvolvimento,…",
+      "description": "Descrição da vaga Estágio em Contabilidade: Dados e Inteligência Artificial , para alunos de graduação em Ciências Contábeis . Trabalho 100% remoto. De segunda a sexta-feira, seis horas diárias , em horário flexível , preferencialmente pela manhã . Para estagiar e crescer no Instituto Infnet, uma faculdade com foco em Engenharias Tech, Ciência de Dados, Comunicação e Design Digital. Oportunidade de contratação ao final do estágio, com direito a bolsas para continuar os estudos na instituição. Ambiente universitário que favorece seu aprendizado , com acesso à biblioteca para estudos e networking com professores e profissionais da área. Bolsas de estudo de até 90% nos nossos cursos de extensão, incluindo cursos oficiais, e de 60% para a graduação, conforme regras. Responsabilidades e atribuições Atuar junto aos gestores da área desenvolvendo as seguintes atividades: Criar visões analíticas e apresentações de dados contábeis e financeiros; Preparar, organizar e estruturar dados contábeis para alimentar modelos de Inteligência Artificial; Dar suporte no desenvolvimento, acompanhamento e melhoria dos fluxos de automação contábil; Executar a limpeza e organização de dados não estruturados provenientes de sistemas legados; Auxiliar na atualização, validação e manutenção de indicadores, dashboards e relatórios gerenciais. Requisitos e qualificações Obrigatórios: Cursar graduação em Ciências Contábeis; Faltar pelo menos um ano e meio de estudos para completar sua formação; Ser capaz de se comunicar por escrito com clareza e sem erros de português; Conhecimento em ferramentas Google, como: Documentos, Planilhas e Drive; Microsoft Excel em nível avançado. Desejáveis: Capacidade de leitura em inglês; Facilidade no aprendizado de softwares; Forte habilidade analítica e atenção aos detalhes; Ter compromisso e responsabilidade com as entregas; Saber aplicar o método científico, efetivamente aprendendo com dados e experimentos. Diferenciais: Conhecimentos em Google Apps Script, Python, n8n e Looker Studio; Conhecimento de ferramentas de AI - Inteligência Artificial. Informações adicionais Bolsa auxílio de R$1.600,00. Dia livre de aniversário a partir de um ano de casa. Bolsas parciais de estudos em cursos da instituição.",
+      "talentPool": false,
+      "sourceUrl": "https://estagio-e-trainee-infnet.gupy.io/jobs/12540405",
+      "applyUrl": "https://estagio-e-trainee-infnet.gupy.io/jobs/12540405",
+      "checkedAt": "2026-10-19T17:33:06.145185+00:00",
+      "publishedAt": "2026-09-21",
+      "deadline": "2026-12-21",
+      "status": "active",
+      "statusLabel": "Inscrições disponíveis",
+      "warning": "Confira na candidatura as restrições de residência e eventuais encontros presenciais."
+    },
     {
       "id": "https://institutoeldorado.gupy.io/jobs/12601828",
       "title": "Estágio em Automação de Testes / Desenvolvimento de Software",
@@ -14,7 +34,7 @@
       "talentPool": false,
       "sourceUrl": "https://institutoeldorado.gupy.io/jobs/12601828",
       "applyUrl": "https://institutoeldorado.gupy.io/jobs/12601828",
-      "checkedAt": "2026-10-18T14:39:15.710151+00:00",
+      "checkedAt": "2026-10-19T17:33:06.145185+00:00",
       "publishedAt": "2026-10-02",
       "deadline": "2026-11-24",
       "status": "active",
@@ -34,7 +54,7 @@
       "talentPool": false,
       "sourceUrl": "https://domo.gupy.io/jobs/12562352",
       "applyUrl": "https://domo.gupy.io/jobs/12562352",
-      "checkedAt": "2026-10-18T14:39:15.710151+00:00",
+      "checkedAt": "2026-10-19T17:33:06.145185+00:00",
       "publishedAt": "2026-09-22",
       "deadline": "2026-09-24",
       "status": "expired",
@@ -55,7 +75,7 @@
       "talentPool": false,
       "sourceUrl": "https://domo.gupy.io/jobs/12597003",
       "applyUrl": "https://domo.gupy.io/jobs/12597003",
-      "checkedAt": "2026-10-18T14:39:15.710151+00:00",
+      "checkedAt": "2026-10-19T17:33:06.145185+00:00",
       "publishedAt": "2026-09-25",
       "deadline": "2026-10-16",
       "status": "expired",
@@ -75,7 +95,7 @@
       "talentPool": true,
       "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/21/banco-de-talentos-estagio-em-banco-de-dados",
       "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/c78af017-834b-49e5-b1ee-bc71d2ca9ceb?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
-      "checkedAt": "2026-10-18T14:39:15.710151+00:00",
+      "checkedAt": "2026-10-19T17:33:06.145185+00:00",
       "publishedAt": "2025-10-21",
       "deadline": "2026-01-31",
       "status": "expired",
@@ -95,7 +115,7 @@
       "talentPool": true,
       "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/22/banco-de-talentos-estagio-em-desenvolvimento",
       "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/cbcdebb5-ce04-449d-98e4-674fecb36b74?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
-      "checkedAt": "2026-10-18T14:39:15.710151+00:00",
+      "checkedAt": "2026-10-19T17:33:06.145185+00:00",
       "publishedAt": "2025-10-21",
       "deadline": "2025-12-31",
       "status": "expired",
@@ -115,7 +135,7 @@
       "talentPool": true,
       "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/23/banco-de-talentos-estagio-em-infraestrutura",
       "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/7ae3b5de-4197-45ba-8dfd-0fc2beb610e8?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
-      "checkedAt": "2026-10-18T14:39:15.710151+00:00",
+      "checkedAt": "2026-10-19T17:33:06.145185+00:00",
       "publishedAt": "2025-10-21",
       "deadline": "2026-01-31",
       "status": "expired",
@@ -135,7 +155,7 @@
       "talentPool": false,
       "sourceUrl": "https://redeverbita.gupy.io/jobs/11428209",
       "applyUrl": "https://redeverbita.gupy.io/jobs/11428209",
-      "checkedAt": "2026-10-18T14:39:15.710151+00:00",
+      "checkedAt": "2026-10-19T17:33:06.145185+00:00",
       "publishedAt": "2026-06-03",
       "deadline": "2026-10-30",
       "status": "closed",
@@ -155,7 +175,7 @@
       "talentPool": false,
       "sourceUrl": "https://spcbrasil.gupy.io/jobs/12165661",
       "applyUrl": "https://spcbrasil.gupy.io/jobs/12165661",
-      "checkedAt": "2026-10-18T14:39:15.710151+00:00",
+      "checkedAt": "2026-10-19T17:33:06.145185+00:00",
       "publishedAt": "2026-09-03",
       "deadline": "2026-10-03",
       "status": "expired",
@@ -197,7 +217,7 @@
       "name": "DOMO Inovação",
       "url": "https://domo.gupy.io/",
       "status": "ok",
-      "candidates": 1,
+      "candidates": 0,
       "message": ""
     },
     {
@@ -231,7 +251,7 @@
       "name": "Nerdin — estágios e início de carreira",
       "url": "https://www.nerdin.com.br/vagas-estagio-junior.php",
       "status": "ok",
-      "leads": 5,
+      "leads": 6,
       "pages": 7,
       "message": ""
     },
@@ -301,8 +321,8 @@
       "status": "ok"
     },
     {
-      "name": "Anúncio: https://domo.gupy.io/jobs/12718556",
-      "url": "https://domo.gupy.io/jobs/12718556",
+      "name": "Anúncio: https://estagio-e-trainee-infnet.gupy.io/jobs/12540405",
+      "url": "https://estagio-e-trainee-infnet.gupy.io/jobs/12540405",
       "status": "ok"
     },
     {
@@ -349,6 +369,17 @@
         "resolved": false
       },
       {
+        "title": "Estágio em Contabilidade: Dados e Inteligência Artificial",
+        "company": "INFNET",
+        "discoverySource": "Nerdin",
+        "discoveryUrl": "https://www.nerdin.com.br/vaga_emprego/vaga-estagio-em-contabilidade-dados-e-inteligencia-artificial-99843.php",
+        "mode": "Remoto",
+        "directUrls": [
+          "https://estagio-e-trainee-infnet.gupy.io/jobs/12540405"
+        ],
+        "resolved": false
+      },
+      {
         "title": "Estágio em Desenvolvimento de Sistemas",
         "company": "DOMO",
         "discoverySource": "Nerdin",
@@ -368,6 +399,6 @@
         "resolved": false
       }
     ],
-    "unresolved": 3
+    "unresolved": 4
   }
 }
