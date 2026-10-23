@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-22T15:54:52.680892+00:00",
+  "checkedAt": "2026-10-23T15:46:37.725889+00:00",
   "jobs": [
     {
       "id": "https://estagio-e-trainee-infnet.gupy.io/jobs/12540405",
@@ -14,7 +14,7 @@
       "talentPool": false,
       "sourceUrl": "https://estagio-e-trainee-infnet.gupy.io/jobs/12540405",
       "applyUrl": "https://estagio-e-trainee-infnet.gupy.io/jobs/12540405",
-      "checkedAt": "2026-10-22T15:54:52.680892+00:00",
+      "checkedAt": "2026-10-23T15:46:37.725889+00:00",
       "publishedAt": "2026-09-21",
       "deadline": "2026-12-21",
       "status": "active",
@@ -34,12 +34,32 @@
       "talentPool": false,
       "sourceUrl": "https://institutoeldorado.gupy.io/jobs/12601828",
       "applyUrl": "https://institutoeldorado.gupy.io/jobs/12601828",
-      "checkedAt": "2026-10-22T15:54:52.680892+00:00",
+      "checkedAt": "2026-10-23T15:46:37.725889+00:00",
       "publishedAt": "2026-10-02",
       "deadline": "2026-11-24",
       "status": "active",
       "statusLabel": "Inscrições disponíveis",
       "warning": "Confira na candidatura as restrições de residência e eventuais encontros presenciais."
+    },
+    {
+      "id": "https://redeverbita.gupy.io/jobs/12770247",
+      "title": "Estágio em TI - Uniacademia - JF/MG",
+      "company": "Rede Verbita de Educação",
+      "city": "Juiz de Fora",
+      "mode": "Presencial",
+      "scope": "local",
+      "salary": null,
+      "summary": "Prestar suporte técnico a coordenadores, professores, alunos e colaboradores técnico-administrativos; Realizar o atendimento e registro de chamados de Tecnologia da Informação, efetuando diagnósticos e solucionando ocorrências relacionadas a hardware e software; Auxiliar na instalação,…",
+      "description": "Descrição da vaga Prestar suporte técnico aos coordenadores, professores, alunos e colaboradores técnico-administrativos do Campus Arnaldo Janssen, realizando atendimento às demandas relacionadas à Tecnologia da Informação, incluindo infraestrutura, sistemas e recursos audiovisuais. Atuar na identificação e resolução de problemas técnicos, contribuindo para a continuidade e o pleno funcionamento das atividades acadêmicas e administrativas da instituição. Responsabilidades e atribuições Prestar suporte técnico a coordenadores, professores, alunos e colaboradores técnico-administrativos; Realizar o atendimento e registro de chamados de Tecnologia da Informação, efetuando diagnósticos e solucionando ocorrências relacionadas a hardware e software; Auxiliar na instalação, configuração e manutenção de computadores, impressoras e demais equipamentos de TI; Apoiar a administração básica da infraestrutura de rede e dos recursos de conectividade à internet; Prestar suporte aos sistemas institucionais utilizados nas atividades acadêmicas e administrativas; Executar suporte aos recursos audiovisuais, incluindo montagem, operação e desmontagem de equipamentos para aulas, eventos e reuniões; Contribuir para a organização, controle patrimonial e conservação dos equipamentos de Tecnologia da Informação e audiovisual; Apoiar a execução de manutenções preventivas e atualizações de sistemas, equipamentos e recursos tecnológicos; Colaborar com a equipe de TI na identificação e implementação de melhorias nos processos e serviços tecnológicos da instituição. Requisitos e qualificações Formação: Estar cursando Ensino Superior em Sistemas de Informação, Ciência da Computação, Análise e Desenvolvimento de Sistemas ou áreas correlatas à Tecnologia da Informação. Habilidades Requeridas: • Organização e atenção aos detalhes na execução das atividades; • Boa comunicação interpessoal e habilidade para atendimento ao público; • Organização, atenção aos detalhes e senso de priorização de demandas; • Proatividade, comprometimento e interesse em aprendizagem contínua; • Capacidade de trabalho em equipe e colaboração com diferentes áreas da instituição. Conhecimento Técnico: • Conhecimentos em manutenção básica de hardware, incluindo montagem, limpeza preventiva e substituição de componentes; • Habilidade para instalação, configuração e suporte a sistemas operacionais Windows; • Conhecimentos em instalação, atualização e suporte a softwares e aplicações corporativas; • Noções de redes de computadores, abrangendo protocolos TCP/IP, conectividade Wi-Fi e cabeamento estruturado; • Capacidade para configuração e suporte a impressoras e demais dispositivos periféricos; • Familiaridade com sistemas acadêmicos e administrativos, prestando suporte aos usuários quando necessário; • Conhecimentos básicos na operação, configuração e suporte a equipamentos audiovisuais, como projetores, caixas de som, microfones e sistemas de apresentação; • Noções de segurança da informação, incluindo utilização de antivírus, realização de backups e adoção de boas práticas de segurança digital. Informações adicionais Local de Trabalho: UniAcademia. Unidade: Juiz de Fora/MG. Segmento: Tecnologia da Informação. Carga Horária: 150 horas mensais. Horários: Segunda a Sexta, das 17h00 ás 23h00. Contratação: Contrato - 100% presencial. Bolsa de Estágio: R$1.105,26. Benefícios & Parcerias: * Vale Transporte. * Parceria com Totalpass (Custeado pelo colaborador). * Seguro de Vida.",
+      "talentPool": false,
+      "sourceUrl": "https://redeverbita.gupy.io/jobs/12770247",
+      "applyUrl": "https://redeverbita.gupy.io/jobs/12770247",
+      "checkedAt": "2026-10-23T15:46:37.725889+00:00",
+      "publishedAt": "2026-10-22",
+      "deadline": "2026-12-21",
+      "status": "active",
+      "statusLabel": "Inscrições disponíveis",
+      "warning": ""
     },
     {
       "id": "https://domo.gupy.io/jobs/12562352",
@@ -54,12 +74,13 @@
       "talentPool": false,
       "sourceUrl": "https://domo.gupy.io/jobs/12562352",
       "applyUrl": "https://domo.gupy.io/jobs/12562352",
-      "checkedAt": "2026-10-22T15:54:52.680892+00:00",
+      "checkedAt": "2026-10-23T15:46:37.725889+00:00",
       "publishedAt": "2026-09-22",
       "deadline": "2026-09-24",
       "status": "expired",
       "statusLabel": "Prazo informado encerrado",
-      "warning": "Confira na candidatura as restrições de residência e eventuais encontros presenciais."
+      "warning": "Confira na candidatura as restrições de residência e eventuais encontros presenciais.",
+      "discoveredVia": "Nerdin"
     },
     {
       "id": "https://domo.gupy.io/jobs/12597003",
@@ -74,7 +95,7 @@
       "talentPool": false,
       "sourceUrl": "https://domo.gupy.io/jobs/12597003",
       "applyUrl": "https://domo.gupy.io/jobs/12597003",
-      "checkedAt": "2026-10-22T15:54:52.680892+00:00",
+      "checkedAt": "2026-10-23T15:46:37.725889+00:00",
       "publishedAt": "2026-09-25",
       "deadline": "2026-10-16",
       "status": "expired",
@@ -94,7 +115,7 @@
       "talentPool": true,
       "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/21/banco-de-talentos-estagio-em-banco-de-dados",
       "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/c78af017-834b-49e5-b1ee-bc71d2ca9ceb?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
-      "checkedAt": "2026-10-22T15:54:52.680892+00:00",
+      "checkedAt": "2026-10-23T15:46:37.725889+00:00",
       "publishedAt": "2025-10-21",
       "deadline": "2026-01-31",
       "status": "expired",
@@ -114,7 +135,7 @@
       "talentPool": true,
       "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/22/banco-de-talentos-estagio-em-desenvolvimento",
       "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/cbcdebb5-ce04-449d-98e4-674fecb36b74?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
-      "checkedAt": "2026-10-22T15:54:52.680892+00:00",
+      "checkedAt": "2026-10-23T15:46:37.725889+00:00",
       "publishedAt": "2025-10-21",
       "deadline": "2025-12-31",
       "status": "expired",
@@ -134,7 +155,7 @@
       "talentPool": true,
       "sourceUrl": "https://atracaodetalentos.totvs.app/guiando/23/banco-de-talentos-estagio-em-infraestrutura",
       "applyUrl": "https://centraldocandidato.totvs.app/centraldocandidato/feedz/main/applicant/job-opportunity-application/7ae3b5de-4197-45ba-8dfd-0fc2beb610e8?tenantId=d968a99b-f40b-45b2-8355-c3937e79d6ff&applicationSource=1",
-      "checkedAt": "2026-10-22T15:54:52.680892+00:00",
+      "checkedAt": "2026-10-23T15:46:37.725889+00:00",
       "publishedAt": "2025-10-21",
       "deadline": "2026-01-31",
       "status": "expired",
@@ -154,7 +175,7 @@
       "talentPool": false,
       "sourceUrl": "https://redeverbita.gupy.io/jobs/11428209",
       "applyUrl": "https://redeverbita.gupy.io/jobs/11428209",
-      "checkedAt": "2026-10-22T15:54:52.680892+00:00",
+      "checkedAt": "2026-10-23T15:46:37.725889+00:00",
       "publishedAt": "2026-06-03",
       "deadline": "2026-10-30",
       "status": "closed",
@@ -174,12 +195,13 @@
       "talentPool": false,
       "sourceUrl": "https://spcbrasil.gupy.io/jobs/12165661",
       "applyUrl": "https://spcbrasil.gupy.io/jobs/12165661",
-      "checkedAt": "2026-10-22T15:54:52.680892+00:00",
+      "checkedAt": "2026-10-23T15:46:37.725889+00:00",
       "publishedAt": "2026-09-03",
       "deadline": "2026-10-03",
       "status": "expired",
       "statusLabel": "Prazo informado encerrado",
-      "warning": "Confira na candidatura as restrições de residência e eventuais encontros presenciais."
+      "warning": "Confira na candidatura as restrições de residência e eventuais encontros presenciais.",
+      "discoveredVia": "Nerdin"
     }
   ],
   "sources": [
@@ -194,7 +216,7 @@
       "name": "Rede Verbita",
       "url": "https://redeverbita.gupy.io/",
       "status": "ok",
-      "candidates": 0,
+      "candidates": 1,
       "message": ""
     },
     {
@@ -248,8 +270,10 @@
     {
       "name": "Nerdin — estágios e início de carreira",
       "url": "https://www.nerdin.com.br/vagas-estagio-junior.php",
-      "status": "error",
-      "message": "500 Server Error: Internal Server Error for url: https://www.nerdin.com.br/vagas-estagio-junior.php"
+      "status": "ok",
+      "leads": 8,
+      "pages": 7,
+      "message": ""
     },
     {
       "name": "Anúncio: https://atracaodetalentos.totvs.app/guiando/21/banco-de-talentos-estagio-em-banco-de-dados",
@@ -320,10 +344,104 @@
       "name": "Anúncio: https://atracaodetalentos.totvs.app/guiando/25/banco-de-talentos-estagio-em-onboarding",
       "url": "https://atracaodetalentos.totvs.app/guiando/25/banco-de-talentos-estagio-em-onboarding",
       "status": "ok"
+    },
+    {
+      "name": "Anúncio: https://institutoeldorado.gupy.io/jobs/12452323",
+      "url": "https://institutoeldorado.gupy.io/jobs/12452323",
+      "status": "error",
+      "message": "Página sem dados estruturados de vaga; revisão necessária"
+    },
+    {
+      "name": "Anúncio: https://redeverbita.gupy.io/jobs/12770247",
+      "url": "https://redeverbita.gupy.io/jobs/12770247",
+      "status": "ok"
     }
   ],
   "discovery": {
-    "nerdin": [],
-    "unresolved": 0
+    "nerdin": [
+      {
+        "title": "Estagiário(a) Desenvolvimento de Sistemas",
+        "company": "SPC Brasil",
+        "discoverySource": "Nerdin",
+        "discoveryUrl": "https://www.nerdin.com.br/vaga_emprego/vaga-estagiario-a-desenvolvimento-de-sistemas-99416.php",
+        "mode": "Remoto",
+        "directUrls": [
+          "https://spcbrasil.gupy.io/jobs/12165661"
+        ],
+        "resolved": true,
+        "officialUrl": "https://spcbrasil.gupy.io/jobs/12165661"
+      },
+      {
+        "title": "Estagiario de anotação de dados - home office",
+        "company": "STRINGHINI VAREJO INTELIGENTE",
+        "discoverySource": "Nerdin",
+        "discoveryUrl": "https://www.nerdin.com.br/vaga_emprego/vaga-estagiario-de-anotacao-de-dados-home-office-99901.php",
+        "mode": "Remoto",
+        "directUrls": [],
+        "resolved": false
+      },
+      {
+        "title": "Estágio de TI - Desenvolvimento",
+        "company": "Vonex",
+        "discoverySource": "Nerdin",
+        "discoveryUrl": "https://www.nerdin.com.br/vaga_emprego/vaga-estagio-de-ti-desenvolvimento-99905.php",
+        "mode": "Remoto",
+        "directUrls": [],
+        "resolved": false
+      },
+      {
+        "title": "Estágio Desenvolvimento Android",
+        "company": "Instituto Eldorado",
+        "discoverySource": "Nerdin",
+        "discoveryUrl": "https://www.nerdin.com.br/vaga_emprego/vaga-estagio-desenvolvimento-android-99408.php",
+        "mode": "Remoto",
+        "directUrls": [
+          "https://institutoeldorado.gupy.io/jobs/12452323"
+        ],
+        "resolved": false
+      },
+      {
+        "title": "Estágio em Automação de Testes / Desenvolvimento de Software",
+        "company": "Instituto Eldorado",
+        "discoverySource": "Nerdin",
+        "discoveryUrl": "https://www.nerdin.com.br/vaga_emprego/vaga-estagio-em-automacao-de-testes-desenvolvimento-de-software-99409.php",
+        "mode": "Remoto",
+        "directUrls": [
+          "https://institutoeldorado.gupy.io/jobs/12601828"
+        ],
+        "resolved": false
+      },
+      {
+        "title": "Estágio em Contabilidade: Dados e Inteligência Artificial",
+        "company": "INFNET",
+        "discoverySource": "Nerdin",
+        "discoveryUrl": "https://www.nerdin.com.br/vaga_emprego/vaga-estagio-em-contabilidade-dados-e-inteligencia-artificial-99843.php",
+        "mode": "Remoto",
+        "directUrls": [
+          "https://estagio-e-trainee-infnet.gupy.io/jobs/12540405"
+        ],
+        "resolved": false
+      },
+      {
+        "title": "Estágio em Desenvolvimento de Sistemas",
+        "company": "DOMO",
+        "discoverySource": "Nerdin",
+        "discoveryUrl": "https://www.nerdin.com.br/vaga_emprego/vaga-estagio-em-desenvolvimento-de-sistemas-99103.php",
+        "mode": "Remoto",
+        "directUrls": [],
+        "resolved": true,
+        "officialUrl": "https://domo.gupy.io/jobs/12562352"
+      },
+      {
+        "title": "Estágio em QA (Qualidade de Software)",
+        "company": "Equanimus",
+        "discoverySource": "Nerdin",
+        "discoveryUrl": "https://www.nerdin.com.br/vaga_emprego/vaga-estagio-em-qa-qualidade-de-software-99791.php",
+        "mode": "Remoto",
+        "directUrls": [],
+        "resolved": false
+      }
+    ],
+    "unresolved": 6
   }
 }
